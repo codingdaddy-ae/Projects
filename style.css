@@ -1,0 +1,16 @@
+body
+{
+    background-color: #e847d6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button
+{
+    background-color: #49c6da;
+    /* color: rgb(179, 207, 0); */
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
